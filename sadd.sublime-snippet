@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ sadd( ${1:key}, ${2:value}) ]]></content>
+	<tabTrigger>sadd</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
