@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[ scard('${1:key}', function (err, cardinality) {
+			if(err){ throw err; }
+	}) ]]></content>
+	<tabTrigger>scard</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

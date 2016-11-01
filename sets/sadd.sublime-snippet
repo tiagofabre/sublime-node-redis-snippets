@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[ sadd('${1:key}', '${2:value}', function (err) {
+			if(err){ throw err; }
+	}) ]]></content>
+	<tabTrigger>sadd</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

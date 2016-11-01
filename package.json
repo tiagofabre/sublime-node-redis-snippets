@@ -1,0 +1,30 @@
+{
+  "name": "sublime-node-redis-snippets",
+  "version": "0.0.0",
+  "description": "node_redis snippets for sublime",
+  "main": "test.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagofabre/sublime-node-redis-snippets.git"
+  },
+  "keywords": [
+    "redis",
+    "node.js",
+    "node",
+    "snippets",
+    "sublime"
+  ],
+  "author": "tiago fabre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagofabre/sublime-node-redis-snippets/issues"
+  },
+  "homepage": "https://github.com/tiagofabre/sublime-node-redis-snippets#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "redis": "^2.6.3"
+  }
+}
